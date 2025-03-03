@@ -16,7 +16,7 @@ Este repositório contém o código-fonte de um site que consome a **API do GitH
 ## 🌐 Acesse o Site em Produção
 
 O site está disponível no link abaixo:  
-[🔗 Acesse o site](#)
+[🔗 Acesse o site](https://github-user-search-seven-gamma.vercel.app/)
 
 ---
 
